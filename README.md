@@ -54,5 +54,3 @@ Detalhamento do painel do proprietário, incluindo gestão da agenda, ocupação
 ## Situação do projeto
 
 Projeto em desenvolvimento acadêmico. As funcionalidades descritas representam o escopo planejado e não indicam que o aplicativo já está implementado.
-# descomplica-sports
-Portfólio acadêmico do projeto Descomplica Sports — sistema de agendamento e gerenciamento de quadras esportivas.
