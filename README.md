@@ -54,3 +54,10 @@ Detalhamento do painel do proprietário, incluindo gestão da agenda, ocupação
 ## Situação do projeto
 
 Projeto em desenvolvimento acadêmico. As funcionalidades descritas representam o escopo planejado e não indicam que o aplicativo já está implementado.
+
+## Documentação
+
+* [Termo de Abertura (PDF)](docs/termo-de-abertura.pdf)
+* [Documento de Requisitos (Word)](docs/documento-de-requisitos.docx) — 10 requisitos funcionais e 5 não funcionais.
+
+Os documentos serão atualizados ao longo do projeto. O histórico de alterações fica registrado nos commits do repositório.
