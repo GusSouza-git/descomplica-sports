@@ -57,7 +57,7 @@ Projeto em desenvolvimento acadêmico. As funcionalidades descritas representam 
 
 ## Documentação
 
-* [Termo de Abertura (PDF)](docs/termo-de-abertura.pdf)
+* Termo de Abertura — formatação ABNT: [PDF](docs/termo-de-abertura.pdf) | [Word](docs/termo-de-abertura.docx)
 * [Documento de Requisitos (Word)](docs/documento-de-requisitos.docx) — 10 requisitos funcionais e 5 não funcionais.
 
 Os documentos serão atualizados ao longo do projeto. O histórico de alterações fica registrado nos commits do repositório.
