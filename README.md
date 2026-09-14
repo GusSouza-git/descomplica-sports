@@ -58,5 +58,5 @@ Projeto em desenvolvimento acadêmico. As funcionalidades descritas representam 
 ## Documentação
 
 * Termo de Abertura — formatação ABNT: [PDF](docs/termo-de-abertura.pdf) |
-* [Documento de Requisitos (Word)](docs/documento-de-requisitos.docx) 
+* [Documento de Requisitos (PDF)](docs/documento-de-requisitos.pdf) 
 
